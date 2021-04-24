@@ -2,7 +2,7 @@
 title: Good News
 ...
 
-![Hello Image](images/hello.png)
+![Hello Image](https://github.com/devmaine/devmaine.github.com/blob/master/docs/images/images/hello.png)
 
 # Good News
 
