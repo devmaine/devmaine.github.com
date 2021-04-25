@@ -34,7 +34,8 @@ Would you like to talk with someone about these things without a religious sales
 
 Bob McLeod
 
-(207)370-7010 altchurch@live.com
+(207)370-7010 
 
+altchurch@live.com
 
 [See the vidio](https://www.facebook.com/altchurchme/videos/1671091386550440/?l=203612614651239974)
