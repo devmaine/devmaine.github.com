@@ -1,24 +1,28 @@
 ---
-title: Good News
+title:
 ...
 
-![Hello Image](https://github.com/devmaine/devmaine.github.com/blob/master/images/hello.png?raw=true)
+![](https://github.com/devmaine/devmaine.github.com/blob/master/images/hello.png?raw=true)
 
+## and this is my story.
 
-The message about Jesus is good news to everyone.
+When I was seventeen life seemed pretty meaningless to me. I felt empty and carried a boat load of questions with no answers. Life seemed short and pointless, so I thought I might as well get all the pleasure I could out of it.
+My time was spent in the pursuit of sex, drugs and rock & roll. 
 
-## Good News: God Loves Everyone
+One night I had a bad LSD trip where I found myself tied to a hospital gurney. 
+After that experience I began to rethink the direction of my life. I turned to the Bible for answers and learned some amazing things. That the God of the universe loved me and sent his only son to die and be raised to life for my sins. I turned in faith to God and gave Jesus the rule of my life.
 
-How do we know that God loves everyone? God showed his love for us because even though we have all broken God's law, Jesus died for us.
+As a result, my life did a 180 degree turn. I had discovered the meaning of life. The guilt I had was gone because of God's gift of forgiveness. Out of that experience I found that there are really only two kinds of people in the world. Those who have given the reins of their life to God through Jesus and those who haven’t.
 
-## Good News: We Can All be Forgiven
+The Bible makes some pretty big claims about Jesus. Have you ever considered them for yourself? If not what would keep you from doing so?
 
-No matter what we may have done wrong, we can have a do over. Forgivness is a free gift made possible by the death of Jesus.
+“Come to me, all you who labor and are heavily burdened, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. For my yoke is easy, and my burden is light.” … Jesus
+(Matt. 11:28-30)
 
-## Good News: Jesus is Alive
+Would you like to talk with someone about these things without a religious sales pitch? Whether you have a burning question, want to talk about life or would like prayer just give me a call or drop me an email. Nothing like a good cup of joe and conversations about important things.
 
-This is good news because Jesus has done what no one else has ever done, he came back from the dead by his own power. If he is able to raise himself, he is able to raise others from the dead and to give them eternal life.
+Bob McLeod
 
-## Good News: God's Gifts are Free
+(207)370-7010 altchurch@live.com
 
-The only thing you need to do is to turn to God and trust in Jesus and you can have eternal life.
+See the video.
