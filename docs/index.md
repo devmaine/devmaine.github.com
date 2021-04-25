@@ -12,16 +12,20 @@ title:
 When I was seventeen life seemed pretty meaningless to me. I felt empty and carried a boat load of questions with no answers. Life seemed short and pointless, so I thought I might as well get all the pleasure I could out of it.
 My time was spent in the pursuit of sex, drugs and rock & roll. 
 
-One night I had a bad LSD trip where I found myself tied to a hospital gurney. 
-After that experience I began to rethink the direction of my life. I turned to the Bible for answers and learned some amazing things. That the God of the universe loved me and sent his only son to die and be raised to life for my sins. I turned in faith to God and gave Jesus the rule of my life.
+One night I had a bad LSD trip where I found myself tied to a hospital gurney.
 
 <img align="left" width="200" height="200" src="https://github.com/devmaine/devmaine.github.com/blob/master/images/joy.png?raw=true">
 
+After that experience I began to rethink the direction of my life. I turned to the Bible for answers and learned some amazing things. That the God of the universe loved me and sent his only son to die and be raised to life for my sins. I turned in faith to God and gave Jesus the rule of my life.
+
 As a result, my life did a 180 degree turn. I had discovered the meaning of life. The guilt I had was gone because of God's gift of forgiveness. Out of that experience I found that there are really only two kinds of people in the world. Those who have given the reins of their life to God through Jesus and those who haven’t.
 
-<img align="right" width="200" height="200" src="https://github.com/devmaine/devmaine.github.com/blob/master/images/tomb.png?raw=true">
+<img align="right" width="150" height="100" src="https://github.com/devmaine/devmaine.github.com/blob/master/images/tomb.png?raw=true">
 
 The Bible makes some pretty big claims about Jesus. Have you ever considered them for yourself? If not what would keep you from doing so?
+
+<img align="left" width="150" height="150" src="https://github.com/devmaine/devmaine.github.com/blob/master/images/jesus.png?raw=true">
+
 
 “Come to me, all you who labor and are heavily burdened, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. For my yoke is easy, and my burden is light.” … Jesus
 (Matt. 11:28-30)
