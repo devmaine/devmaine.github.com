@@ -15,6 +15,8 @@ My time was spent in the pursuit of sex, drugs and rock & roll.
 One night I had a bad LSD trip where I found myself tied to a hospital gurney. 
 After that experience I began to rethink the direction of my life. I turned to the Bible for answers and learned some amazing things. That the God of the universe loved me and sent his only son to die and be raised to life for my sins. I turned in faith to God and gave Jesus the rule of my life.
 
+<img align="left" src="https://github.com/devmaine/devmaine.github.com/blob/master/images/joy.png?raw=true">
+
 As a result, my life did a 180 degree turn. I had discovered the meaning of life. The guilt I had was gone because of God's gift of forgiveness. Out of that experience I found that there are really only two kinds of people in the world. Those who have given the reins of their life to God through Jesus and those who haven’t.
 
 The Bible makes some pretty big claims about Jesus. Have you ever considered them for yourself? If not what would keep you from doing so?
