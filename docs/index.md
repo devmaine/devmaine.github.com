@@ -4,8 +4,6 @@ title: Good News
 
 ![Hello Image](https://github.com/devmaine/devmaine.github.com/blob/master/docs/images/images/hello.png)
 
-# Good News
-
 The message about Jesus is good news to everyone.
 
 ## Good News: God Loves Everyone
