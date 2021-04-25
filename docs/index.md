@@ -38,4 +38,4 @@ Bob McLeod
 
 altchurch@live.com
 
-<p><a href="https://www.facebook.com/altchurchme/videos/1671091386550440/?l=203612614651239974" target="_blank" rel="noopener noreferrer">See the vidio</a></p>
+<p><a href="https://www.facebook.com/altchurchme/videos/1671091386550440/?l=203612614651239974" target="_blank" rel="noopener noreferrer">See the video</a></p>
