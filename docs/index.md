@@ -2,7 +2,8 @@
 title: Good News
 ...
 
-![Hello Image](https://github.com/devmaine/devmaine.github.com/blob/master/images/hello.png)
+![Hello Image](https://github.com/devmaine/devmaine.github.com/blob/master/images/hello.png?raw=true)
+
 
 The message about Jesus is good news to everyone.
 
