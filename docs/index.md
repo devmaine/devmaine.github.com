@@ -1,10 +1,13 @@
 ---
-title:
+title: index
 ...
 
-![](https://github.com/devmaine/devmaine.github.com/blob/master/images/hello.png?raw=true)
+<p align="center">
+  ![](https://github.com/devmaine/devmaine.github.com/blob/master/images/hello.png?raw=true)
+</p>
 
-## and this is my story.
+
+## and this is my story...
 
 When I was seventeen life seemed pretty meaningless to me. I felt empty and carried a boat load of questions with no answers. Life seemed short and pointless, so I thought I might as well get all the pleasure I could out of it.
 My time was spent in the pursuit of sex, drugs and rock & roll. 
@@ -25,4 +28,5 @@ Bob McLeod
 
 (207)370-7010 altchurch@live.com
 
-See the video.
+
+[See the vidio](https://www.facebook.com/altchurchme/videos/1671091386550440/?l=203612614651239974)
